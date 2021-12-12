@@ -23,12 +23,12 @@ function Navbar() {
                         </Link>
                     </li>
                     <li className="nav-item">
-                    <Link to='/' className="nav-links" onClick= {closeMobileMenu}>
+                    <Link to='/teams' className="nav-links" onClick= {closeMobileMenu}>
                             Teams
                     </Link>
                     </li>
                     <li className="nav-item">
-                    <Link to='/' className="nav-links" onClick= {closeMobileMenu}>
+                    <Link to='/gallery' className="nav-links" onClick= {closeMobileMenu}>
                             Gallery
                     </Link>
                     </li>

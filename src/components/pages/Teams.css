@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Exo+2|Yatra+One');
+
 
 *{
   margin: 0;
@@ -89,7 +89,7 @@
 }
 
 .our_team .team_member .member_img .social_media .fab{
-  color: #8c7ae6;
+  color: #f45b38;
   font-size: 20px;
 }
 

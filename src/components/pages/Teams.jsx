@@ -12,8 +12,8 @@ function Teams() {
                             <img src="https://i.imgur.com/2Necikc.png" alt="our_team"/>
                             <div class="social_media">
                                 <div class="facebook item"><i class="fab fa-facebook-f"></i></div>
-                                <div class="twitter item"><i class="fab fa-twitter"></i></div>
-                                <div class="instagram item"><i class="fab fa-instagram"></i></div>
+                                <div class="linkedin item"><i class="fab fa-linkedin"></i></div>
+                                <div class="phone item"><i class="fab fa-phone"></i></div>
                             </div>
                         </div>
                     <h3>John Doe</h3>
@@ -25,8 +25,8 @@ function Teams() {
                             <img src="https://i.imgur.com/JzUIF4o.png" alt="our_team"/>
                             <div class="social_media">
                                 <div class="facebook item"><i class="fab fa-facebook-f"></i></div>
-                                <div class="twitter item"><i class="fab fa-twitter"></i></div>
-                                <div class="instagram item"><i class="fab fa-instagram"></i></div>
+                                <div class="linkedin item"><i class="fab fa-linkedin"></i></div>
+                                <div class="phone item"><i class="fab fa-phone"></i></div>
                             </div>
                         </div>
                         <h3>Mary Doe</h3>
@@ -38,8 +38,8 @@ function Teams() {
                             <img src="https://i.imgur.com/Ctwf8HA.png" alt="our_team"/>
                             <div class="social_media">
                                 <div class="facebook item"><i class="fab fa-facebook-f"></i></div>
-                                <div class="twitter item"><i class="fab fa-twitter"></i></div>
-                                <div class="instagram item"><i class="fab fa-instagram"></i></div>
+                                <div class="linkedin item"><i class="fab fa-linkedin"></i></div>
+                                <div class="phone item"><i class="fab fa-phone"></i></div>
                             </div>
                         </div>
                         <h3>William Doe</h3>
@@ -51,8 +51,8 @@ function Teams() {
                             <img src="https://i.imgur.com/A1Fjq0d.png" alt="our_team"/>
                             <div class="social_media">
                                 <div class="facebook item"><i class="fab fa-facebook-f"></i></div>
-                                <div class="twitter item"><i class="fab fa-twitter"></i></div>
-                                <div class="instagram item"><i class="fab fa-instagram"></i></div>
+                                <div class="linkedin item"><i class="fab fa-linkedin"></i></div>
+                                <div class="phone item"><i class="fab fa-phone"></i></div>
                             </div>
                         </div>
                         <h3>Harry Doe</h3>
