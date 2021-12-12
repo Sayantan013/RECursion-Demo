@@ -9,11 +9,11 @@ function Teams() {
                 <div class="our_team">
                     <div class="team_member">
                         <div class="member_img">
-                            <img src="https://i.imgur.com/2Necikc.png" alt="our_team"/>
+                            <img src="" alt="our_team"/>
                             <div class="social_media">
                                 <div class="facebook item"><i class="fab fa-facebook-f"></i></div>
                                 <div class="linkedin item"><i class="fab fa-linkedin"></i></div>
-                                <div class="phone item"><i class="fab fa-phone"></i></div>
+                                 
                             </div>
                         </div>
                     <h3>John Doe</h3>
@@ -22,11 +22,11 @@ function Teams() {
                     </div>
                     <div class="team_member">
                         <div class="member_img">
-                            <img src="https://i.imgur.com/JzUIF4o.png" alt="our_team"/>
+                            <img src="" alt="our_team"/>
                             <div class="social_media">
                                 <div class="facebook item"><i class="fab fa-facebook-f"></i></div>
                                 <div class="linkedin item"><i class="fab fa-linkedin"></i></div>
-                                <div class="phone item"><i class="fab fa-phone"></i></div>
+                                 
                             </div>
                         </div>
                         <h3>Mary Doe</h3>
@@ -35,11 +35,11 @@ function Teams() {
                     </div>
                     <div class="team_member">
                         <div class="member_img">
-                            <img src="https://i.imgur.com/Ctwf8HA.png" alt="our_team"/>
+                            <img src="" alt="our_team"/>
                             <div class="social_media">
                                 <div class="facebook item"><i class="fab fa-facebook-f"></i></div>
                                 <div class="linkedin item"><i class="fab fa-linkedin"></i></div>
-                                <div class="phone item"><i class="fab fa-phone"></i></div>
+                                 
                             </div>
                         </div>
                         <h3>William Doe</h3>
@@ -48,11 +48,11 @@ function Teams() {
                     </div>
                     <div class="team_member">
                         <div class="member_img">
-                            <img src="https://i.imgur.com/A1Fjq0d.png" alt="our_team"/>
+                            <img src="" alt="our_team"/>
                             <div class="social_media">
                                 <div class="facebook item"><i class="fab fa-facebook-f"></i></div>
                                 <div class="linkedin item"><i class="fab fa-linkedin"></i></div>
-                                <div class="phone item"><i class="fab fa-phone"></i></div>
+                                 
                             </div>
                         </div>
                         <h3>Harry Doe</h3>
