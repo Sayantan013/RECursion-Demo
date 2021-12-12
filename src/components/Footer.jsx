@@ -22,7 +22,7 @@ function Footer() {
 
                     </div>
                     <div className="footer-link-items">
-                        <h2>Contacts</h2>
+                        <h2>Link</h2>
                         <Link to='/'>AskREC</Link>
                         <Link to='/'>Blog</Link>
                         <Link to='/'>Events</Link>
